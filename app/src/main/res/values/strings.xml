@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Soul_HealerProject</string>
+    <string name="news_api_key">b52be6d4dbe44c4994e88b485a466123</string> //API key for NEWS updates
+    <string name="Tamil_words"></string>
+    <string name="hello1"></string>
+    <string name="hello2"></string>
+    <string name="hello3"></string>
+    <string name="hello4"></string>
+    <string name="hello5"></string>
+    <string name="hello6"></string>
+    <string name="hello7"></string>
+    <string name="hello8"></string>
+    <string name="hello9"></string>
+    <string name="hello0"></string>
+
+</resources>
